@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Remonstrance and declaration to England, Scotland, &amp; Ireland, setting forth the grounds and reasons of the putting a stop and period to the sitting of the late Parliament with a perfect form of government, prescribed to the people, and the essential rules and laws, to be published in all cities, market-towns, churches, chappels, and publike places of meetings.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58521</idno><idno type="EEBO-CITATION">11836775</idno>
+  <idno type="VID">49765</idno>
+  <idno type="EEBO-PROQUEST">2240873888</idno>
+  
+            <idno type="STC">Wing R966</idno>
+            <idno type="STC">ESTC R13707</idno>
+            <idno type="OCLC">11836775</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49765)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 38:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Remonstrance and declaration to England, Scotland, &amp; Ireland, setting forth the grounds and reasons of the putting a stop and period to the sitting of the late Parliament with a perfect form of government, prescribed to the people, and the essential rules and laws, to be published in all cities, market-towns, churches, chappels, and publike places of meetings.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Miles,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In support of the army.</note>
+                  <note>Plomer records no Henry Miles for this period; he may be the author of the piece.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49765:1"/>
+            <pb facs="tcp:49765:1"/>
+            <p>A REMONSTRANCE AND <hi>DECLARATION</hi> TO <hi>England, Scotland,</hi> &amp; <hi>Ireland;</hi> SETTING FORTH The Grounds and Reasons of the putting a stop and period to the Sitting of the late <hi>PARLIAMENT.</hi>
+            </p>
+            <p>WITH A perfect Form of Government, prescribed to the People; And the Essential Rules and Laws, to be published in all Cities, Market-Towns, Churches, Chappels, and publike places of Meetings.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Henry Miles,</hi> MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49765:2"/>
+            <pb n="3" facs="tcp:49765:2"/>
+            <head>A Remonstrance and Declaration, to the Three Nations of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Eeing it hath pleased GOD, after many various and wonderful Turns of Affairs, still to raise up Instru<g ref="char:EOLhyphen"/>ments in the whole course of his providence, and to own the people of these Nations by many glorious Deliverances; and by leading his people with a Di<g ref="char:EOLhyphen"/>vine Hand through many difficulties in their Laby<g ref="char:EOLhyphen"/>rinth of Contests for their indubitable Rights and Freedoms. And as such Dispensations as these cannot be lookt upon by the most envious Eye, as the birth and product of any fore-laid Contrivances of some men, biassed with corrupt and carnal Interest; so have we a great ground of hope and confidence, that the Lord in whose hands is our breath and life, and all our wayes, hath bin shaking and moving foun<g ref="char:EOLhyphen"/>dations in these Lands, not to over-turn, but to establish this Com<g ref="char:EOLhyphen"/>monwealth upon a better and more sure <hi>Basis</hi> of Government, than hath bin enjoyed by Our Ancestors for many Generations. The consi<g ref="char:EOLhyphen"/>deration whereof, doth not a little reflect upon the la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Representa<g ref="char:EOLhyphen"/>tives; who before their Interruption declared, &amp; professed, with hands lifted up to the Most High, That they intended nothing more th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a settlement of these Nations in a happy peace and tranquility, the re<g ref="char:EOLhyphen"/>storing of the people to their just rights, proprieties, and pristine Li<g ref="char:EOLhyphen"/>berties; and the establishing of a godly Ministry, and a pious &amp; faith<g ref="char:EOLhyphen"/>ful Magistracy, &amp;c. But many of them being weighed in an equall ballance, in substance did correspond with the primary Ends of such as ingaged against the principles of common Freedom, by endeavou<g ref="char:EOLhyphen"/>ring to open a door to their private Interest and advantage, &amp; to have introduced again that very Thing, which was the great Bone of Con<g ref="char:EOLhyphen"/>tention.</p>
+            <p>Hence it is, that when those in Authority shall neglect the great Ends of Government, and improve all Opportunities and advanta<g ref="char:EOLhyphen"/>ges,
+<pb n="4" facs="tcp:49765:3"/> by means of their power and grandure, unto their own personall and family-Interest; especially when they shall wilfully, and against common and universal Reason act contrary hereunto, to the apparent danger of common safety, they determine their Authority; and having in such cases quitted their care and respects to the peoples protection and welfare, they likewise quit the people from their obedience and allegiance. The clear Light of which, shines so apparent and obvious, that it can never be extinguish'd or made obscure, by any subtil En<g ref="char:EOLhyphen"/>deavours of the most deceitful Impostors. For it is apparent, That the peoples safety is the chief Soveraignty; That Kings, and all that are in authority, are Gods Ministers for his peoples good; That Gover<g ref="char:EOLhyphen"/>nours were made for the people, and not the people for them; That they must not reign in the peoples ruine, and be lifted up in their downfal; That they have no power and authority, but what (under God) they have from the people, and for their use; That uncontrou<g ref="char:EOLhyphen"/>lable power, and absolute authority, do become none but onely Him, whose Nature is perfect, and can do no wrong; That though the Su<g ref="char:EOLhyphen"/>preme Magistrates be above every Individual, yet are they beneath, and inferiour unto the whole; That they ought not to do their own wills, against the just desires of those that betrusted them; That the powers, Honours, and Dignities of Governours, do respect the peoples Inte<g ref="char:EOLhyphen"/>rest above their own, and therefore being relatives are always obliga<g ref="char:EOLhyphen"/>tory, for the essential end of all Kings, Rulers, Laws, and Govern<g ref="char:EOLhyphen"/>ments, is the common peace, justice, and safety of the people: So that these principles of <hi>common reason,</hi> being distilled into the judgments and considerations of the people, it will apparently demonstrate, <hi>That the Laws, Liberties, Properties, and Priviledges of the Subject, do far extend all Rules of Government, and power of the Sword; and the Com<g ref="char:EOLhyphen"/>monwealth ought not to be obliged by any introduced Form of Govern<g ref="char:EOLhyphen"/>ment, no farther than it shall conduce with the peace and safety of the people, and their Fundamental Rights and Freedoms. For no Governours or Governments are to be continued and tolerated, which are directly and plainly destructive unto the chief End of their Original Appointment,</hi> viz. <hi>Common Good; and all right English men know, that they are not ob<g ref="char:EOLhyphen"/>liged by any Laws (though made by their own Representatives and Tru<g ref="char:EOLhyphen"/>stees for making Laws) to their publick destruction, which is contrary to the Laws of God Universal Reason, and Nature it self; but fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thfully to adhere to such, who shall in Justice and Equity endeavour the conservati<g ref="char:EOLhyphen"/>on of the publick quiet and peace of the Nations.</hi>
+            </p>
+            <pb n="5" facs="tcp:49765:3"/>
+            <p>For this cause was the Army at first raised, formed, and commissio<g ref="char:EOLhyphen"/>nated; namely, for the defence of the just, civil, and religious Rights, Liberties, and safety of the people; and not as meer Mercenaries, and Hirelings, to serve any arbitrary power whatsoever; but we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e invited, and called together by the Parliament, and conjured by their sev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ral Declarations and Remonstrances, published in the several Market-Towns, Churches, Chappels, and places of publick Me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tings, for de<g ref="char:EOLhyphen"/>fence of themselves and the people, in the vindication &amp; preservation of their said just Rights and Liberties.</p>
+            <p>Hence it hath been, that some have sharpned their pens, and whet their Tongues like swords, shooting forth reproachful arrows, as if the Army were designed to throw down the Ministers, destroy Lear<g ref="char:EOLhyphen"/>ning, debar them of Churches, countenance Heresies depos Magistra<g ref="char:EOLhyphen"/>cy, and all civil Government, and ravel all into confusion; though <hi>God,</hi> the discerner of the secret thoughts and intentions of men, knoweth, that these are all false and scandalous, and as far from the thoughts and purposes of their hearts, as the East is from the West. It is not Go<g ref="char:EOLhyphen"/>vernment, but the Evils thereof that the Army doth oppose. And to rectifie Governors in the administration of <hi>common right</hi> and justice, is to fasten the crowns of Government upon their heads; for although it is better to have any government then none, yet doth the Army judge it better, to alter such <hi>Governors,</hi> or Governments that seek the r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine &amp; destruction of the very end of Government, then not to relieve the <hi>common safety of good men,</hi> to avoid the scandal of disturbing such <hi>Go<g ref="char:EOLhyphen"/>vernours</hi> or <hi>Governments</hi> in that case. Better it is to alter and remove destructive powers, then to permit the destruction of the people in their just rights by them. And considering the great disaffection of many, both in City and Country, a <hi>Petition and Proposals</hi> were agreed upon by some Officers, and sent to the Lord <hi>Fleetwood,</hi> to be commu<g ref="char:EOLhyphen"/>nicated to a General Council of Officers, for their approbation. His Lordship forthwith communicated the said <hi>Proposals</hi> to Sir <hi>Arthur Haslerig,</hi> with a desire that himself, Sir <hi>Henry Vane,</hi> &amp; Major <hi>Salwey,</hi> would give his Lordship a meeting to consider what was fit to be done therein. But instead thereof, the next day Sir <hi>Arthur</hi> acquainted t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e House with the said Paper, declaring, <hi>That there was a dangerous De<g ref="char:EOLhyphen"/>sign of some in the Army to subvert and trample under foot the power &amp; authority of Parliaments, and to change and put a force upon the peoples Representatives, by introducing a new Form of Government, under a single person, &amp;c.</hi> which was di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ectly contrary to the very scope and design of
+<pb n="6" facs="tcp:49765:4"/> the said paper. Whereupon reproachful speeches we re cast up and down, of sending the L. <hi>Lambert</hi> to the Tower, and that some of the chief Officers of his Brigade deserved to be hang'd, drawn &amp; quarter'd: After which, the House declared the L. <hi>Fleetwood's</hi> Commission void, together with the Commission of the L. <hi>Lambert,</hi> Gen. <hi>Disbrow,</hi> and of six Colonels, and one Major: And not only so, but things were so contrived, that a Regiment commanded by Col. <hi>Morley</hi> (who with 6 others were appointed to command the Army) several Barrels of pow<g ref="char:EOLhyphen"/>der laid in, together with provision of victuals, in order to the carrying on of some design. The Army perceiving these things, had little hopes tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the publike Liberties and Interest of this Nation, and the people of God therein, could be long freed from violation and utter dest u<g ref="char:EOLhyphen"/>ction; and therefore they did put a stop unto the sitting of the Parlia<g ref="char:EOLhyphen"/>ment, concluding it a betraying of that Trust and Cause (f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r which they were first raised) which is more precious unto them then their lives, should they neglect their present <hi>opportunity</hi> to preserve the same. And discerning some tincture of secret discontents and purpo<g ref="char:EOLhyphen"/>ses, to carry on an indissolvableness of their Parliamentary authority, without their own consent, and to reckon with some Officers <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout their former interruption: as also, the inward dis-favour, if not (since their sitting, though covertly carryed) purposes of revenge against some Officers, was more then conjecturable, by their backwardness to set out the Act of Indemnity: Notwithstanding which Act they passed a Vote against Major General <hi>Harrison,</hi> making him uncapable of fu<g ref="char:EOLhyphen"/>ture publike employment. <hi>&amp;c.</hi> for no new or other offence, but his jopning with other Officers of the Army in the interruption of the Parliament; which the Army could not but judge to be against all Rules of Equity and Justice, and a precedent, threatning all the rest of the Officers that had a hand in the said interruption, to fare alike, upon the first <hi>opportunity</hi> of politick conveniency thereunto; for that <hi>Act</hi> did either pardon him, or not; if it did pardon him, then that Sen<g ref="char:EOLhyphen"/>tence against him was unrighteous and unjust, because against the publick faith of the Parliament declared in their own <hi>Act</hi> which for<g ref="char:EOLhyphen"/>merly hath bin the greatest security the people of <hi>England</hi> could h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve for any thing: If it did not pardon him, neither did it then pardon any of the Army that had a hand in their fore<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid interruption, and so it signified nothing at all: If the penning that <hi>Act</hi> was with such care, caution, and implicite liberty left in the House, to punish any man that had a hand in the foresaid interruption, then did they seem to
+<pb n="7" facs="tcp:49765:4"/> pardon whom they did intend to punish, and so that <hi>Act</hi> was a meer collusion, and not comporting with that simplicity and uprightness of mind, and good affection to the Army which was pretended thereby, nor yet to that sincerity of love to them wherewith the Army did joyn and close with them.</p>
+            <p>These things being considered, with the calamities and desolations inevitably drawing on, unless some immediate and extraord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nary re<g ref="char:EOLhyphen"/>medy were found to obviate the Design; it pleased God at length to excite such as remained faithful in the Army by a seasonable Interpo<g ref="char:EOLhyphen"/>sition to give a stop to these mens Intentions. And seeing it was im<g ref="char:EOLhyphen"/>possible to secure the Interest of <hi>common right and freedom,</hi> with respect had any longer to a Parliamentary Obedience, it was (upon mature deliberation) thought meet to be suspended; the considera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of those great Ends being superior to the dignity of a Repr s ntative. So that if these cannot otherwise be attained, there follows an unavoi<g ref="char:EOLhyphen"/>dable necessity of altering the Form; and to establish these poor, har<g ref="char:EOLhyphen"/>rased, and distrected Nations, in a happy settlement of a Free-State, many thousands being willing to acquiesce therein, who have conti<g ref="char:EOLhyphen"/>nued languishing year after year, in hope to have tasted those Fruits of Freedom, which seemed to shoot forth and flourish in the Bud, at the beginning of the happy Establishment of this Infant-Common<g ref="char:EOLhyphen"/>wealth: But when after the intercurrence of divers years, all our hopes were blasted, in regard particular members became studious of parties and private Interests, neglecting the publick; and by reason of their dilatory proceedings in the House, and decisions at Commi<g ref="char:EOLhyphen"/>tees, wholly perverting the great Ends for which they were elected, and no dore being left open for redress of grievance.</p>
+            <p>And seeing no regard was had to the many sollicitations of the Oppressed, whose crying Necessities were sufficiently heard in the Ears of many of the great Ones; it was adjudged requisite, to put a period to their sitting, that others might succeed, to perfect that good Work, which we have with so much patience expected; therefore it became an <hi>Act</hi> no less pious than necessary, for the Army to interpose upon the same equitable grounds as heretofore, in like cases of extremity, and (no ordinary <hi>medium</hi> being left) to provide for the Main, in a way irregular and extraordinary, by a timely period; the considera<g ref="char:EOLhyphen"/>tion
+<pb n="8" facs="tcp:49765:5"/> of the said Ends of the Army and Peoples Engagement, and of Government it self, being equally paramount to the priviledges of Parliament, as to the prerogatives and persons of Kings.</p>
+            <p>Wherefore upon these, and divers other Considerations, many emi<g ref="char:EOLhyphen"/>nent Patriots are nominated for a Council, for the carrying on, and managing the great and weighty Affairs of the Nations, and to come to such a solid and certain course of Settlement, as may hereafter bar up the way against those manifold inconveniences, which we have felt under other fleeting Forms; and re-invest the people under such a Constitution of Government, as to save a sinking Nation out of the gulf of Misery and Confusion; by setling the Ministry, and preserving of Magistracy; and fully to provide for the security of those great Ends of Religion and Liberty, which were as the Bloud and Spirits running through every Vein of the People and Armies Declarations.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49765:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
